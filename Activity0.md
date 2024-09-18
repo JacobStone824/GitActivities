@@ -4,10 +4,6 @@ This first activity is for information only.  You will not need to complete this
 
 Please don't do this for these activities.  If you want a copy of this repo, use the "fork" button above.
 
-If you are struggling with any of the concepts required for this assignment, make sure to review the video course to find out more about how to perform a specific command, or just get more practice and understanding of the topic presented.
-
->Important: Make sure you have GIT installed for use on your computer.
-
 ### Step 1: Clone this repository ###
 To begin, you need to clone the repository.  There are many ways to do this, including, but not limited to:
 *   Use a popular tool like GitKraken, VSCode with GitLens, or Visual Studio
