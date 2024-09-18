@@ -11,6 +11,15 @@ To begin, you need to clone the repository.  There are many ways to do this, inc
 
 This guide provides instructions to complete the activity using the command line.
 
+THIS
+OBVIOUSLY
+CONFLICTS
+WITH
+THE
+OTHER
+BRANCH
+
+
 1. Make sure you have GIT installed on your local machine.  If you do not have Git installed, you can easily do so.
 
     Open a BASH terminal and type the command  
