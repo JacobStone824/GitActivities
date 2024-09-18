@@ -11,6 +11,39 @@ To begin, you need to clone the repository.  There are many ways to do this, inc
 
 This guide provides instructions to complete the activity using the command line.
 
+THIS
+OBVIOUSLY
+CONFLICTS
+WITH
+THE
+OTHER
+BRANCH
+
+
+1. Make sure you have GIT installed on your local machine.  If you do not have Git installed, you can easily do so.
+
+    Open a BASH terminal and type the command  
+
+    ```
+    git --version
+    ```  
+
+    You should see a printout similar to what is shown in Image 1   
+
+    ![The GIT version is shown for git version 2.27.0.windows.1](images/Activity0/Image0001.png)
+
+    If you do not have BASH or you don't have the version shown, download and install GIT from: 
+
+    ```  
+    https://git-scm.com/downloads
+    ```  
+    If you are installing GIT for the first time, make sure to open a BASH terminal and run the following commands to validate that your account is setup with the correct credentials:  
+
+    ```  
+    git config --global user.name "Your.Name"
+    git config --global user.email "youremail@yourprovider.com"
+    ```  
+
 2. Browse to the directory where you will be storing your solutions, such as `C:\Projects`.  Make sure to browse to this repository in any browser https://github.com/FranklinUniversityCompSciPracticum/GitActivities  
 
     Use the dropdown for `Code` to get the URL to clone.  Review Image 2 for more details.  
@@ -120,7 +153,6 @@ For the first part of this activity, you need to setup your own repository.  To 
     ![Use the dropdown to select main, then hit the update button](images/Activity0/Image0005.png) 
 
 You have now completed the activity where you have taken an existing repository and placed it under your own repository at github, with no connection to the original repository.
-
 
 
 
